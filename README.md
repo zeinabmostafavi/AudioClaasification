@@ -11,7 +11,8 @@ Then, using the Telegram bot, she takes the voice of the person and says the nam
 ## Bot Telegram
  
  
- <img src="https://github.com/favicon.ico](https://user-images.githubusercontent.com/80622132/211721985-0475293c-6f74-4a79-ab59-315c522c9eca.jpg" width="60" height="60">
+ <img src="![photo_2023-01-11_08-34-04](https://user-images.githubusercontent.com/80622132/211723808-58abf492-8c14-49c6-b8f4-173540495ebe.jpg)"
+ width="60" height="60">
 
 ## Installation
 Install dependencies: pip install -r ./requirements.txt 
