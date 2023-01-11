@@ -3,7 +3,7 @@
 ## General
 Torchaudio is a library for audio and signal processing with PyTorch. It provides I/O, signal and data processing functions, datasets, model implementations and application components.
 #
-## An audio classification example
+## An audio classification 
  This code first pre-processes the audio files and trains an audio segment classifier, given a set of WAV files stored in folders (each folder represents a different class).
 Then, using the Telegram bot, she takes the voice of the person and says the name of the class
 #
