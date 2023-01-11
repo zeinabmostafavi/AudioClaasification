@@ -11,7 +11,7 @@ Then, using the Telegram bot, she takes the voice of the person and says the nam
 ## Bot Telegram
  
  
- <img src="![photo_2023-01-11_08-34-04](https://user-images.githubusercontent.com/80622132/211723808-58abf492-8c14-49c6-b8f4-173540495ebe.jpg)"
+ <img src="https://user-images.githubusercontent.com/80622132/211723808-58abf492-8c14-49c6-b8f4-173540495ebe.jpg"
  width="60" height="60">
 
 ## Installation
