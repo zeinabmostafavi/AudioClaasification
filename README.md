@@ -20,4 +20,5 @@ Install dependencies: pip install -r ./requirements.txt
 ## Dataset
 Dataset contains voices from 11 classes
 |          |     Accuracy   |
+| :---     |     :---:      |
 | Test data| 0.9495         |
