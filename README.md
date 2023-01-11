@@ -9,13 +9,14 @@ Then, using the Telegram bot, she takes the voice of the person and says the nam
 #
 
 ## Bot Telegram
- ![photo_2023-01-11_08-34-04](https://user-images.githubusercontent.com/80622132/211721985-0475293c-6f74-4a79-ab59-315c522c9eca.jpg "Bot" {width=40px height=400px} )
+ ![photo_2023-01-11_08-34-04](https://user-images.githubusercontent.com/80622132/211721985-0475293c-6f74-4a79-ab59-315c522c9eca.jpg  )
+ <img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/80622132/211721985-0475293c-6f74-4a79-ab59-315c522c9eca.jpg)" width="48">
 
 ## Installation
 Install dependencies: pip install -r ./requirements.txt 
 #
 ## Dataset
 Dataset contains voices from 11 classes
-|          |   # Accuracy   |
+|          |    #Accuracy   |
 | :---     |     :---:      |
 | Test data| 0.9495         |
